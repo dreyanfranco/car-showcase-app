@@ -1,4 +1,4 @@
-Car showcase application. Stack React, Next and TypeScript
+Car showcase application. Stack Tailwindcss React, Next and TypeScript
 
 ## To run app
 
